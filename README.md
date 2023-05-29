@@ -1,2 +1,1 @@
-# project8_implementing_loadBalancer_solution_with_apache
-Implementing a load balancer solution with apache
+# Implementing a load balancer solution with apache
