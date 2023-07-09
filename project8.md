@@ -66,7 +66,7 @@ __Difference between layer 4 and layer 4 load balancers__
     L7 load balancers offer more advanced features and capabilities for application-level load balancing.
 
 
-## Labs
+# Labs
 
 ![infrastructure_diagram](./images/infrastructure_diagram.png)
 
@@ -106,7 +106,7 @@ __Difference between layer 4 and layer 4 load balancers__
 
 > Verify apache2 is up and running
 
-    sudo systemtl status apache2
+    sudo systemctl status apache2
 
 ![apache_up_and_running](./images/apache_up_and_running.png)
 
@@ -154,7 +154,7 @@ __Difference between layer 4 and layer 4 load balancers__
 ![log_files](./images/log_files.png)
 
 
-## Optinal Step - Configure Local DNS Names Resolution
+## Optional Step - Configure Local DNS Names Resolution
 
 > Navigate to /etc/hosts
 
